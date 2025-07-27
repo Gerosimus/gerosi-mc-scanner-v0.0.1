@@ -58,7 +58,7 @@ GerosiScan - мощный сканер серверов Minecraft с возмо�
 📦 Зависимости
 
 
-`pip install mcstatus colorama`
+`pip install mcstatus colorama requests`
 
 
 
