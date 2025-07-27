@@ -44,14 +44,14 @@ GerosiScan - мощный сканер серверов Minecraft с возмо�
 
 
 📦 Зависимости
-```pip install mcstatus colorama```
+`pip install mcstatus colorama`
 
 
 
 🛠️ Использование
 
   1.  Запустите скрипт:
-     ```python gerosi_scaner.py```
+     `python gerosi_scaner.py`
 
 
   3. Введите цель:
@@ -81,6 +81,11 @@ GerosiScan - мощный сканер серверов Minecraft с возмо�
      
 
 📷 Пример вывода
+
+
+
+
+
        `IP                     | Version  | Players  | Platform          | Ping   | Mods     | Whitelist  | Country        
         -----------------------------------------------------------------------------------------
         192.168.1.5:25565     | 1.18.2  | 3/20     | Forge 40.1.0     | 42ms   | 12 mods  | Whitelist ON | Russia
