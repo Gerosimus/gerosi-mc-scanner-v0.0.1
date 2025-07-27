@@ -1,6 +1,10 @@
 # gerosi-mc-scanner-v0.0.1
 🧭 Gerosi Minecraft Scanner v0.0.1
 
+![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 GerosiScan - мощный сканер серверов Minecraft с возможностью детального анализа. Работает с Java Edition серверами.
 
 
